@@ -31,7 +31,7 @@ Login into your [dashboard](https://dashboard.nexmo.com) and create a new applic
 
 Select/switch Voice on and add the following webhooks:
 
-* Events: https://ngrok-generated-url/webhooks/events
+* Events: https://ngrok-generated-url/webhooks/event
 * Answer: https://ngrok-generated-url/webhooks/answer
 
 Save the application and link your nexmo virtual number to it.
